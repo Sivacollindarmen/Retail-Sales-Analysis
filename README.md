@@ -1,3 +1,3 @@
-# data_analyst_projects
+# Data Analytics Projects
 
-Data science and data analyst projects and visuals.
+### Table of Contents 

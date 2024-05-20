@@ -72,7 +72,11 @@ CONCAT(sta.first_name,' ',sta.last_name)
   2. Handling missing values
   3. Normalization, cleaning and formatting
 
-### Exploratory Data Analysis 
+### Exploratory Data Analysis
+- What is the overall sales trend?
+- Which products brands are best sellers?
+- What years performed the best?
+- Who are the top sales reps?
 
 ### Data Analytics
 

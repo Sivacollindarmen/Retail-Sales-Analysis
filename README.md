@@ -20,12 +20,20 @@ I will start by acquiring data from the company's sales database. This is a MS S
 - Data Points Required
   - order_id, customer name, city, state, order_date, total_unit, revenue, product_name, category_name,brand_name, store_name, sale_rep
 
-These data point are dispersed accross various tables, and requires me to write SQL queries to extract the relevant sales, revenue, and customer data from the company’s databases.
+These data points are dispersed accross various tables, and requires me to write SQL queries to extract the relevant sales, revenue, and customer data from the company’s databases.
 
 
 ### Tools
+- Excel
+- SQL Server
+- Power BI
+- Tableau
 
 ### Data Preparation 
+- In the initial preparation phase I performed the follwing tasks:
+  1. Data loading and inspection
+  2. Handling missing values
+  3. Normalization, cleaning and formatting
 
 ### Exploratory Data Analysis 
 

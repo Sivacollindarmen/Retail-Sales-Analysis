@@ -1,7 +1,7 @@
 ## Data Analytics Projects
 
 ### Project List
-- [Retail Sales Anaysis](#retail-sales-analysis)
+- [Retail Sales Analysis](#retail-sales-analysis)
 - #### Financial Analysis (Banking)
 - #### ICT Analysis (Information Technology)
 

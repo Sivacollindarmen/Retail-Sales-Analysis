@@ -74,6 +74,7 @@ cat.category_name,
 sto.store_name,
 CONCAT(sta.first_name,' ',sta.last_name)
 ```
+![Executive Dashboard](https://github.com/Sivacollindarmen/data_analytics/assets/54360140/d7616190-7ad4-48e0-bd21-95565ebac63f)
 
 ### Recommendation 
 

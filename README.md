@@ -69,10 +69,7 @@ CONCAT(sta.first_name,' ',sta.last_name)
   3. Normalization, cleaning and formatting
 
 ### Exploratory Data Analysis
-- What is the overall sales trend?
-- Which products brands are best sellers?
-- What years performed the best?
-- Who are the top sales reps?
+From an exploratory analysis of the sales data for the period 2016-2018, it appears that 2017 was the best performing year in terms of overall sales and revenue. During this period, mountain bikes emerged as the top product category, reflecting strong consumer demand. Geographically, New York stood out as the highest performing state, contributing significantly to the company's revenue. Among the individual stores, Baldwin Bike distinguished itself as the top performer, leading in sales and customer satisfaction. These insights highlight key areas of success and provide an exploratory view of the current dataset.
 
 ### Data Analytics
 

@@ -12,7 +12,7 @@ Management seeks to gain comprehensive insights into the sales activities of the
 
 ### Data Acquisition
 To address the business problem and meet the stated objectives, I need to acquire and compile the correct dataset.
-I will start by acquiring data from the company's sales database. This is a MS SQL Database.
+I will start by acquiring data from the company's sales database. This is an MS SQL Database.
 - Data Points Required
   - order_id, customer name, city, state, order_date, total_unit, revenue, product_name, category_name,brand_name, store_name, sale_rep
 
@@ -32,13 +32,13 @@ These data points are dispersed accross various tables, and requires me to write
   3. Normalization, cleaning and formatting
 
 ### Exploratory Data Analysis
-- Which year perform the best over the period?
-- What product category and brand perfomed and did not perform well?
-- Which state outpeformed thier counterparts?
-- Top sales representative per region
+- Which year performed the best over the period?
+- What product category and brand performed and did not perform well?
+- Which state outperformed their counterparts?
+- Top sales representative per region?
 
 ### Data Analytics
-This code was used to retrive the data points required to create the dataset, joins on various tables with relevant primary keys on the company's SQL Server.
+This code was used to retrive the data points required to create the dataset, joins on various tables with relevant primary keys on the company's SQL Server Database:
 
 ```Sql
 SELECT 

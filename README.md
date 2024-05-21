@@ -32,7 +32,10 @@ These data points are dispersed accross various tables, and requires me to write
   3. Normalization, cleaning and formatting
 
 ### Exploratory Data Analysis
-From an exploratory analysis of the sales data for the period 2016-2018, it appears that 2017 was the best performing year in terms of overall sales and revenue. During this period, mountain bikes emerged as the top product category, reflecting strong consumer demand. Geographically, New York stood out as the highest performing state, contributing significantly to the company's revenue. Among the individual stores, Baldwin Bike distinguished itself as the top performer, leading in sales and customer satisfaction. These insights highlight key areas of success and provide an exploratory view of the current dataset.
+- Which year perform the best over the period?
+- What product category and brand perfomed and did not perform well?
+- Which state outpeformed thier counterparts?
+- Top sales representative per region
 
 ### Data Analytics
 This code was used to retrive the data points required to create the dataset, joins on various tables with relevant primary keys on the company's SQL Server.
@@ -74,11 +77,42 @@ cat.category_name,
 sto.store_name,
 CONCAT(sta.first_name,' ',sta.last_name)
 ```
+### Results 
+From an exploratory analysis of the sales data for the period 2016-2018, it appears that 2017 was the best performing year in terms of overall sales and revenue. During this period, mountain bikes emerged as the top product category, reflecting strong consumer demand. Geographically, New York stood out as the highest performing state, contributing significantly to the company's revenue. Among the individual stores, Baldwin Bike distinguished itself as the top performer, leading in sales and customer satisfaction. These insights highlight key areas of success and provide an exploratory view of the current dataset.
+
 ### Data Visualization
 ![Executive Dashboard](https://github.com/Sivacollindarmen/data_analytics/assets/54360140/d7616190-7ad4-48e0-bd21-95565ebac63f)
 
-### Recommendation 
+### Recommendations
+Given the insights from the data analysis, here are some solid recommendations to capitalize on the strengths identified and address any potential gaps:
 
-### Limitations 
+Leverage 2017 Best Practices:
+   - Identify and Analyse Success Factors: Investigate what specific strategies, promotions, or market conditions contributed to the outstanding performance in 2017. Replicate these successful tactics in future planning and operations.
+   - Sustain Momentum: Focus on maintaining the high standards and effective practices that led to the success in 2017, ensuring consistency in performance.
+     
+Expand and Promote the Mountain Bike Category:
+   - Increase Inventory: Ensure adequate stock levels to meet the high demand for mountain bikes. Consider diversifying the product range within this category to include different models and price points.
+   - Marketing Campaigns: Launch targeted marketing campaigns highlighting the popularity and benefits of mountain bikes. Use customer testimonials and success stories to attract new buyers.
+   - Partnerships and Sponsorships: Partner with outdoor sports events and sponsorships to boost the visibility of mountain bikes and reach a wider audience.
+     
+Enhance Presence in New York:
+   - Optimize Store Operations: Focus on optimizing operations in New York stores to sustain their top performance. This includes efficient inventory management, superior customer service, and localized marketing efforts.
+   - Market Penetration: Explore opportunities for opening new stores or expanding existing ones in New York to capitalize on the strong market presence and high demand.
+     
+Strengthen Baldwin Bike Store Operations:
+   - Recognize and Reward Performance: Acknowledge the achievements of the Baldwin Bike store and its staff. Implement reward programs to motivate continued excellence.
+   - Best Practices Implementation: Identify the strategies and practices that have made Baldwin Bike successful and replicate these across other stores. This could include staff training, customer engagement practices, and inventory management.
+   - Customer Engagement: Use Baldwin Bike as a model for exceptional customer engagement. Gather customer feedback and use it to continuously improve the shopping experience.
 
-### References 
+5. Invest in Data-Driven Decision Making:
+   - Advanced Analytics: Use advanced analytics to delve deeper into sales patterns, customer preferences, and regional performance. This will provide actionable insights for more informed decision-making.
+   - Regular Reporting: Implement a regular reporting mechanism to monitor key performance indicators (KPIs) such as sales trends, product performance, and regional sales on an ongoing basis.
+
+6. Expand Top Performing Regions and Categories:
+   - Regional Expansion: Identify other regions with similar characteristics to New York and explore opportunities for expansion.
+   - Product Diversification: While focusing on mountain bikes, also explore other categories that showed promise. Introduce complementary products to increase cross-selling opportunities.
+
+
+
+
+

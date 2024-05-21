@@ -18,6 +18,25 @@ I will start by acquiring data from the company's sales database. This is a MS S
 
 These data points are dispersed accross various tables, and requires me to write SQL queries to extract the relevant sales, revenue, and customer data from the company’s databases.
 
+
+### Tools
+- Excel
+- SQL Server
+- Power BI
+- Tableau
+
+### Data Preparation 
+- In the initial preparation phase I performed the follwing tasks:
+  1. Data loading and inspection
+  2. Handling missing values
+  3. Normalization, cleaning and formatting
+
+### Exploratory Data Analysis
+From an exploratory analysis of the sales data for the period 2016-2018, it appears that 2017 was the best performing year in terms of overall sales and revenue. During this period, mountain bikes emerged as the top product category, reflecting strong consumer demand. Geographically, New York stood out as the highest performing state, contributing significantly to the company's revenue. Among the individual stores, Baldwin Bike distinguished itself as the top performer, leading in sales and customer satisfaction. These insights highlight key areas of success and provide an exploratory view of the current dataset.
+
+### Data Analytics
+This code was used to retrive the data points required to create the dataset, joins on various tables with relevant primary keys on the company's SQL Server.
+
 ```Sql
 SELECT 
 ord.order_id,
@@ -55,23 +74,6 @@ cat.category_name,
 sto.store_name,
 CONCAT(sta.first_name,' ',sta.last_name)
 ```
-
-### Tools
-- Excel
-- SQL Server
-- Power BI
-- Tableau
-
-### Data Preparation 
-- In the initial preparation phase I performed the follwing tasks:
-  1. Data loading and inspection
-  2. Handling missing values
-  3. Normalization, cleaning and formatting
-
-### Exploratory Data Analysis
-From an exploratory analysis of the sales data for the period 2016-2018, it appears that 2017 was the best performing year in terms of overall sales and revenue. During this period, mountain bikes emerged as the top product category, reflecting strong consumer demand. Geographically, New York stood out as the highest performing state, contributing significantly to the company's revenue. Among the individual stores, Baldwin Bike distinguished itself as the top performer, leading in sales and customer satisfaction. These insights highlight key areas of success and provide an exploratory view of the current dataset.
-
-### Data Analytics
 
 ### Recommendation 
 

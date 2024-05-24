@@ -3,7 +3,6 @@
 ### Project List
 - [Retail Sales Analysis](#retail-sales-analysis)
 - [Marketing Campaign Analysis](#marketing-campaign-analysis)
-- - #### ICT Analysis (Information Technology)
 
 # Retail Sales Analysis
 

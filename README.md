@@ -2,8 +2,8 @@
 
 ### Project List
 - [Retail Sales Analysis](#retail-sales-analysis)
-- #### Financial Analysis (Banking)
-- #### ICT Analysis (Information Technology)
+- [Marketing Campaign Analysis](#marketing-campaign-analysis)
+- - #### ICT Analysis (Information Technology)
 
 # Retail Sales Analysis
 
@@ -114,7 +114,8 @@ Expand Top Performing Regions and Categories:
    - Regional Expansion: Identify other regions with similar characteristics to New York and explore opportunities for expansion.
    - Product Diversification: While focusing on mountain bikes, also explore other categories that showed promise. Introduce complementary products to increase cross-selling opportunities.
 
-
+--
+# Marketing Campaign Analysis
 
 
 

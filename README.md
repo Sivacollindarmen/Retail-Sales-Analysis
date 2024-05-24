@@ -114,8 +114,9 @@ Expand Top Performing Regions and Categories:
    - Regional Expansion: Identify other regions with similar characteristics to New York and explore opportunities for expansion.
    - Product Diversification: While focusing on mountain bikes, also explore other categories that showed promise. Introduce complementary products to increase cross-selling opportunities.
 
---
+
 # Marketing Campaign Analysis
 
+![kaggle_to_powerbi](https://github.com/Sivacollindarmen/data_analytics/assets/54360140/891df0bb-9db2-40ff-9b56-24dce19fbc46)
 
 

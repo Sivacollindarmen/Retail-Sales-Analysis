@@ -1,4 +1,4 @@
-## Data Analytics Projects
+# Data Analytics Projects
 
 ### Project List
 - [Retail Sales Analysis](#retail-sales-analysis)
@@ -151,7 +151,7 @@ We need data on the top UK YouTubers in 2024 that includes their
 - total views
 - total videos uploaded
 
-- Where is the data coming from?The data is sourced from Kaggle (an Excel extract), see here to find it.
+- Where is the data coming from? The data is sourced from Kaggle (an Excel extract), see here to find it.
 
 ### Stages
 - Design
